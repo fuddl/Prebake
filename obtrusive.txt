@@ -149,6 +149,7 @@ concertolive.co.uk##.divCookieWarning
 conrad.se###headCookieAccept
 coop.se###aspnetForm > .is-passive.is-passive.Alert--info.js-canvasColCenter.Canvas-col--center.Canvas-col.Alert
 couchsurfing.com##.is-hidden
+cultofmac.com###ez-cookie-dialog-wrapper
 cpc.farnell.com###mktg_Cookie_Wrap
 cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 crocs.de##.intercept-content
